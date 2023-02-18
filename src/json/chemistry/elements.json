@@ -1,0 +1,346 @@
+[
+    {
+        "index": 1,
+        "mark": "H",
+        "name": "氢",
+        "quality": 1.008,
+        "family": "I A",
+        "period": 1
+    },
+    {
+        "index": 2,
+        "mark": "He",
+        "name": "氦",
+        "quality": 4.003,
+        "family": "0",
+        "period": 1
+    },
+    {
+        "index": 3,
+        "mark": "Li",
+        "name": "锂",
+        "quality": 6.941,
+        "family": "I A",
+        "period": 2
+    },
+    {
+        "index": 4,
+        "mark": "Be",
+        "name": "铍",
+        "quality": 9.012,
+        "family": "II A",
+        "period": 2
+    },
+    {
+        "index": 5,
+        "mark": "B",
+        "name": "硼",
+        "quality": 10.81,
+        "family": "III A",
+        "period": 2
+    },
+    {
+        "index": 6,
+        "mark": "C",
+        "name": "碳",
+        "quality": 12.01,
+        "family": "IV A",
+        "period": 2
+    },
+    {
+        "index": 7,
+        "mark": "N",
+        "name": "氮",
+        "quality": 14.01,
+        "family": "V A",
+        "period": 2
+    },
+    {
+        "index": 8,
+        "mark": "O",
+        "name": "氧",
+        "quality": 16.00,
+        "family": "VI A",
+        "period": 2
+    },
+    {
+        "index": 9,
+        "mark": "F",
+        "name": "氟",
+        "quality": 19.00,
+        "family": "VII A",
+        "period": 2
+    },
+    {
+        "index": 10,
+        "mark": "Ne",
+        "name": "氖",
+        "quality": 20.18,
+        "family": "0",
+        "period": 2
+    },
+    {
+        "index": 11,
+        "mark": "Na",
+        "name": "钠",
+        "quality": 22.99,
+        "family": "I A",
+        "period": 3
+    },
+    {
+        "index": 12,
+        "mark": "Mg",
+        "name": "镁",
+        "quality": 24.31,
+        "family": "II A",
+        "period": 3
+    },
+    {
+        "index": 13,
+        "mark": "Al",
+        "name": "铝",
+        "quality": 26.98,
+        "family": "III A",
+        "period": 3
+    },
+    {
+        "index": 14,
+        "mark": "Si",
+        "name": "硅",
+        "quality": 28.09,
+        "family": "IV A",
+        "period": 3
+    },
+    {
+        "index": 15,
+        "mark": "P",
+        "name": "磷",
+        "quality": 30.97,
+        "family": "V A",
+        "period": 3
+    },
+    {
+        "index": 16,
+        "mark": "S",
+        "name": "硫",
+        "quality": 32.06,
+        "family": "VI A",
+        "period": 3
+    },
+    {
+        "index": 17,
+        "mark": "Cl",
+        "name": "氯",
+        "quality": 35.45,
+        "family": "VII A",
+        "period": 3
+    },
+    {
+        "index": 18,
+        "mark": "Ar",
+        "name": "氩",
+        "quality": 39.95,
+        "family": "0",
+        "period": 3
+    },
+    {
+        "index": 19,
+        "mark": "K",
+        "name": "钾",
+        "quality": 39.10,
+        "family": "I A",
+        "period": 4
+    },
+    {
+        "index": 20,
+        "mark": "Ca",
+        "name": "钙",
+        "quality": 40.08,
+        "family": "II A",
+        "period": 4
+    },
+    {
+        "index": 21,
+        "mark": "Sc",
+        "name": "钪",
+        "quality": 44.96,
+        "family": "III B",
+        "period": 4
+    },
+    {
+        "index": 22,
+        "mark": "Ti",
+        "name": "钛",
+        "quality": 47.87,
+        "family": "IV B",
+        "period": 4
+    },
+    {
+        "index": 23,
+        "mark": "V",
+        "name": "钒",
+        "quality": 50.94,
+        "family": "V B",
+        "period": 4
+    },
+    {
+        "index": 24,
+        "mark": "Cr",
+        "name": "铬",
+        "quality": 52.00,
+        "family": "VI B",
+        "period": 4
+    },
+    {
+        "index": 25,
+        "mark": "Mn",
+        "name": "锰",
+        "quality": 54.94,
+        "family": "VII B",
+        "period": 4
+    },
+    {
+        "index": 26,
+        "mark": "Fe",
+        "name": "铁",
+        "quality": 55.85,
+        "family": "VII",
+        "period": 4
+    },
+    {
+        "index": 27,
+        "mark": "Co",
+        "name": "钴",
+        "quality": 58.93,
+        "family": "VII",
+        "period": 4
+    },
+    {
+        "index": 28,
+        "mark": "Ni",
+        "name": "镍",
+        "quality": 58.69,
+        "family": "VII",
+        "period": 4
+    },
+    {
+        "index": 29,
+        "mark": "Cu",
+        "name": "铜",
+        "quality": 63.55,
+        "family": "I B",
+        "period": 4
+    },
+    {
+        "index": 30,
+        "mark": "Zn",
+        "name": "锌",
+        "quality": 65.41,
+        "family": "II B",
+        "period": 4
+    },
+    {
+        "index": 31,
+        "mark": "Ga",
+        "name": "镓",
+        "quality": 69.72,
+        "family": "III A",
+        "period": 4
+    },
+    {
+        "index": 32,
+        "mark": "Ge",
+        "name": "铬",
+        "quality": 72.64,
+        "family": "IV A",
+        "period": 4
+    },
+    {
+        "index": 33,
+        "mark": "As",
+        "name": "砷",
+        "quality": 74.92,
+        "family": "V A",
+        "period": 4
+    },
+    {
+        "index": 34,
+        "mark": "Se",
+        "name": "硒",
+        "quality": 78.96,
+        "family": "VI A",
+        "period": 4
+    },
+    {
+        "index": 35,
+        "mark": "Br",
+        "name": "溴",
+        "quality": 79.90,
+        "family": "VII A",
+        "period": 4
+    },
+    {
+        "index": 36,
+        "mark": "Kr",
+        "name": "氪",
+        "quality": 83.80,
+        "family": "0",
+        "period": 4
+    },
+    {
+        "index": 37,
+        "mark": "Rb",
+        "name": "铷",
+        "quality": 85.47,
+        "family": "I A",
+        "period": 5
+    },
+    {
+        "index": 38,
+        "mark": "Sr",
+        "name": "锶",
+        "quality": 87.62,
+        "family": "II A",
+        "period": 5
+    },
+    {
+        "index": 39,
+        "mark": "Y",
+        "name": "钇",
+        "quality": 88.91,
+        "family": "III B",
+        "period": 5
+    },
+    {
+        "index": 40,
+        "mark": "Zr",
+        "name": "锆",
+        "quality": 91.22,
+        "family": "IV B",
+        "period": 5
+    },
+    {
+        "index": 41,
+        "mark": "Nb",
+        "name": "铌",
+        "quality": 92.91,
+        "family": "V B",
+        "period": 5
+    },
+    {
+        "index": 42,
+        "mark": "Mo",
+        "name": "钼",
+        "quality": 95.91,
+        "family": "VI B",
+        "period": 5
+    },
+    {
+        "index": 43,
+        "mark": "Tc",
+        "name": "锝",
+        "quality": 98,
+        "family": "VII B",
+        "period": 5
+    }
+]
